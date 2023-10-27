@@ -4,6 +4,7 @@
 **Objective:** This assignment will give you experience with control flow, Numpy arrays and functions, datetimes, and basic plotting.
 
 **Name:** Evelyn Wang
+
 **NetID:** jmwang02
 
 To add, type "git add .".
